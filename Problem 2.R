@@ -1,7 +1,7 @@
 # Loading library
 library(tidyverse)
 library(dplyr)
-
+# Test William
 # Importing data 
 raw_file = readLines(con = "http://www.sao.ru/lv/lvgdb/article/suites_dw_Table1.txt", warn = FALSE)
 
